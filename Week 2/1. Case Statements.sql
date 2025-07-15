@@ -27,9 +27,7 @@ CASE
 END
 FROM employee_demographics;
 
--- Poor Jerry
-
--- Now we don't just have to do simple labels like we did, we can also perform calculations
+-- we can also perform calculations
 
 -- Let's look at giving bonuses to employees
 
